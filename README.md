@@ -21,7 +21,8 @@ Not completed End points :
 The code to handle various return status codes are completed for POST and PUT 
 but due to Autofac mapping un resolved issues currenlty it is not testable. 
 
-
+Database (LocalDB):
+-------------------
 Below project uses: Local db (Which comes with most versions of V.S)
 The connection string mentioned in the web config file will automatically configures the localDB for testing.
 <connectionStrings>
